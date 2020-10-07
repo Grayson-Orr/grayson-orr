@@ -5,7 +5,5 @@
     I'm Grayson Orr
     <br><br>
     I work as a Lecturer at Otago Polytechnic
-    <br><br>
-    Currently learning Fiber & Flutter
   </samp>
 </p>
