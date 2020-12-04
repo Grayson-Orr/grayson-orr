@@ -4,7 +4,7 @@
   <samp>
     I'm Grayson Orr
     <br><br>
-    I work as a Lecturer at Otago Polytechnic
+    I'm Lecturer at Otago Polytechnic
     <br><br>
     I <3 code
   </samp>
