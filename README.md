@@ -4,8 +4,6 @@
   <samp>
     I'm Grayson Orr
     <br><br>
-    I'm Lecturer at Otago Polytechnic
-    <br><br>
     I <3 code
   </samp>
 </p>
